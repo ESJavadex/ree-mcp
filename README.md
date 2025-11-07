@@ -12,6 +12,10 @@
 
 > Habla con la red eléctrica española a través de Claude - sin conocimientos técnicos
 
+<a href="https://glama.ai/mcp/servers/@ESJavadex/ree-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ESJavadex/ree-mcp/badge" alt="REE Server MCP server" />
+</a>
+
 Pregunta a Claude sobre **demanda, generación, precios y emisiones** de electricidad en España usando lenguaje natural. Él se encarga de todos los detalles técnicos.
 
 Construido con **Domain-Driven Design** y **Clean Architecture** por [Javi Santos](https://www.linkedin.com/in/francisco-javier-santos-criado/) - Especialista en IA y Robótica con investigación publicada en visión por computador e interpretabilidad de LLMs.
