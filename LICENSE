@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Javier Santos (JavadexAI)
+Copyright (c) 2025 ESJavadex
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,31 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-DISCLAIMER - HOBBY PROJECT
-
-This is a hobby/educational project and comes with NO WARRANTIES or guarantees:
-
-1. **No Service Guarantees**: This software may break, become outdated, or stop
-   working at any time without notice.
-
-2. **No Support Obligation**: The author is not obligated to provide support,
-   bug fixes, or maintenance.
-
-3. **Use at Your Own Risk**: You are responsible for testing and validating
-   the software in your own environment.
-
-4. **No Production Use**: This software is intended for educational and
-   research purposes. Use in production environments is at your own risk.
-
-5. **Third-Party API**: This software relies on Red Eléctrica de España's
-   eSios API. The author is not affiliated with REE and cannot guarantee API
-   availability, stability, or data accuracy.
-
-6. **Data Accuracy**: While the software fetches data from official sources,
-   the author makes no guarantees about data accuracy, completeness, or
-   timeliness.
-
-By using this software, you acknowledge and accept these limitations.
